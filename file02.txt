@@ -1,1 +1,2 @@
 start git
+new content - we are pracitce git
